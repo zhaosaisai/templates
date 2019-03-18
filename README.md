@@ -1,4 +1,4 @@
-# publish-system-template
+# template
 
 Template for create new project on gitlab
 
